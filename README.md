@@ -1,4 +1,12 @@
-AI STOCK ANALYZER
+AI STOCK MARKET ANALYZER
+
+Tech Used: Python, PyQT5
+
+Results:
+
+<img src="https://user-images.githubusercontent.com/59831782/175793577-ecd60b61-505b-4456-972a-b63fdaf9cf8b.png" width="400" height="400" />
+
+
 
 To run this program inside your favoured IDE, set the virtual environment's Python executable to be the main Python interpreter (venv/Scripts/python.exe) and then run the main.py file.
 

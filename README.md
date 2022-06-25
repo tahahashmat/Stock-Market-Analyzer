@@ -1,4 +1,6 @@
-AI STOCK MARKET ANALYZER
+Stock Market Analyzer
+
+Topics: Artificial Intelligence, Finance
 
 Tech Used: Python, PyQT5
 
